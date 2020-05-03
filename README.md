@@ -8,11 +8,31 @@ while providing insights into some of the key demographic factors that might dri
 
 Dataset used: link:
 '/content/Financial Dataset - 1.csv'
+
+b) Defining the Metric for Success
+The question objectives:
+
+1) Exploratory Data Analysis
+
+2)Visualizations
+
+
+3)Univariate, Bivariate and Multivariate analysis
+
+
+4)Reduction techniques(PCA)
+
 Setup/Installation Requirements
 
-a)Technologies used:
+Technologies used:
 
 Python,Github,Gitbash
+Packages
+1)pandas
+2)numpy
+3)matplolib
+4)seaborn
+
 
 Name:
 
